@@ -256,7 +256,7 @@ h1, h2, h3, h4, h5, h6 {
 .plan__cards {
     display: flex;
     align-items: center;
-    gap: 15px;
+    justify-content: space-around;
 }
 
 .plan__card {
